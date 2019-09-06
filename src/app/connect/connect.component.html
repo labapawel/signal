@@ -1,0 +1,17 @@
+<div>
+  <label>Username</label>
+  <input type="text" required [(ngModel)]="userName" />
+</div>
+<div>
+  <label>Message</label>
+  <input type="text" required [(ngModel)]="message" />
+  <button (click)="send()">Wyślij</button>
+</div>
+
+<div>
+    <label>Group</label>
+    <input type="text" required [(ngModel)]="groupName" />
+    <button (click)="addGroup()">Dodaj</button>
+    <button (click)="delGroup()">Usun</button>
+  </div>
+  <button (click)="userList()">UserList</button>
