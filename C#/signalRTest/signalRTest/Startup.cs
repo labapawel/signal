@@ -46,8 +46,8 @@ namespace signalRTest
       }
       app.UseCors("CorsPolicy");
       app.UseSignalR(signal => {
-        signal.MapHub<HubClass>("/server");
-        signal.MapHub<ClickHubClass>("/click");
+        signal.MapHub<HubClass>("/click");
+      //  signal.MapHub<ClickHubClass>("/click");
       });
       app.UseMvc();
     }

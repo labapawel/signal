@@ -1,0 +1,13 @@
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\bin\Release\netcoreapp2.1\signalRTest.deps.json
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\bin\Release\netcoreapp2.1\signalRTest.runtimeconfig.json
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\bin\Release\netcoreapp2.1\signalRTest.runtimeconfig.dev.json
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\bin\Release\netcoreapp2.1\signalRTest.dll
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\bin\Release\netcoreapp2.1\signalRTest.pdb
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.csproj.CoreCompileInputs.cache
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.RazorAssemblyInfo.cache
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.RazorAssemblyInfo.cs
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.AssemblyInfoInputs.cache
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.AssemblyInfo.cs
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.RazorTargetAssemblyInfo.cache
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.dll
+C:\Users\Pawel\Documents\angular\signal\C#\signalRTest\signalRTest\obj\Release\netcoreapp2.1\signalRTest.pdb
